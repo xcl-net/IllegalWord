@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinGanCi", "mgc\MinGanCi.csproj", "{555BA54A-DF38-4D57-B909-C36B241B5872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrimEmptyString", "TrimEmptyString\TrimEmptyString.csproj", "{86E79730-7F06-4A0F-9B1F-E38B0D1AE0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555BA54A-DF38-4D57-B909-C36B241B5872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555BA54A-DF38-4D57-B909-C36B241B5872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555BA54A-DF38-4D57-B909-C36B241B5872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555BA54A-DF38-4D57-B909-C36B241B5872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E79730-7F06-4A0F-9B1F-E38B0D1AE0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E79730-7F06-4A0F-9B1F-E38B0D1AE0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E79730-7F06-4A0F-9B1F-E38B0D1AE0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E79730-7F06-4A0F-9B1F-E38B0D1AE0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
