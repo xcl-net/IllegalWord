@@ -24,6 +24,7 @@ namespace TrimEmptyString
             }
             Console.WriteLine("ok");
             Console.ReadKey();
+			
         }
     }
 }
